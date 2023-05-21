@@ -23,7 +23,7 @@
  
    ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&logoColor=E14B1E&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=E14B1E&labelColor=0D1117)&nbsp;
 
 
 
